@@ -2,5 +2,13 @@
 
 MY PROJECT
 
-![SCREEN1](SCREEN1.jpg) 
-![BLOCKS](BLOCKS.jpg)
+![Screenshot](SCREEN1.jpg) 
+
+#
+
+![Blocks](BLOCKS.jpg)
+
+#
+
+Lorenzo C. Garcia
+DISMATH - EK
