@@ -2,3 +2,5 @@
 
 MY PROJECT
 
+![SCREEN1](SCREEN1.jpg) 
+![BLOCKS](BLOCKS.jpg)
